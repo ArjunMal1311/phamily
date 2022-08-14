@@ -189,7 +189,7 @@ body {
 
 /* Home Page */
 #hero {
-    background-image: url('/img/background.jpg');
+    background-image: url(./img/background.jpg);
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -388,7 +388,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('./img/Prod/background-main.jpg');
+    background-image: url(./img/Prod/background-main.jpg);
     width: 100%;
     height: 40vh;
 }
@@ -454,7 +454,7 @@ body {
 
 
 #sm-banner .banner-box2 {
-    background-image: url('/img/banner/b10.jpg');
+    background-image: url(./img/banner/b10.jpg);
 }
 
 #sm-banner h4 {
@@ -529,7 +529,7 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url('/img/banner/b14.png');
+    background-image: url(./img/banner/b14.png);
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;

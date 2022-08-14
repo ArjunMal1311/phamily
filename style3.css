@@ -70,7 +70,7 @@
 }
 
 #doctor button{
-    background-image: url("img/button.png");
+    background-image: url(./img/button.png);
     background-color: transparent;
     color: #088178;
     border: 0;
